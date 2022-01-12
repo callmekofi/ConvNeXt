@@ -1,6 +1,6 @@
 # [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
 
-Official PyTorch implementation of **ConvNeXt**, from the following paper:
+The Official PyTorch implementation of **ConvNeXt**, from the following paper:
 
 [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545). arXiv 2022.\
 [Zhuang Liu](https://liuzhuang13.github.io), [Hanzi Mao](https://hanzimao.me/), [Chao-Yuan Wu](https://chaoyuan.org/), [Christoph Feichtenhofer](https://feichtenhofer.github.io/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Saining Xie](https://sainingxie.com)\
